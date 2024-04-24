@@ -1,2 +1,2 @@
-import folium
-import matplotlib
+folium==0.16.0
+matplotlib==3.8.4
