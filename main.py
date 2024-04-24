@@ -6,7 +6,7 @@ import folium
 from folium.plugins import MarkerCluster
 import matplotlib.pyplot as plt
 
-csv_path = r'C:\Users\woodr\Documents\School\2024 Spring\SE 350-01 Software Engineering and Human Computer Interaction\BuildingAppStreamlit\museum_data.csv'
+csv_path = r'./museum_data.csv'
 
 dtype_options = {
     'Latitude': float,
